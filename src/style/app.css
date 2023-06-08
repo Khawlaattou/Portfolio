@@ -1,0 +1,96 @@
+* {
+  font-family: "Nunito", sans-serif;
+  text-decoration: none; 
+}
+body{
+  background-image: url(E:\React Project\firstreact\src\images\Capture d’écran 2023-06-07 232228.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100% ;
+}
+header {
+    height: 2cm;
+}
+.header .navbar a {
+    margin-right: 1.2rem;
+    margin-left: 1.5cm;
+    font-size: 90%;
+    color: #fce8ff;
+    letter-spacing: .2rem; 
+  }
+
+.header .navbar  {
+    margin-right: 1.2rem;
+    font-size: 2rem;
+    color: #fce8ff;
+    letter-spacing: .2rem;
+    margin-left: 50%;
+    margin-top: 3%;
+  }
+
+.dev {
+    color: #ffffff;
+width: 15cm;
+margin: 15%;
+  }
+
+.dev .word{
+    font-size: 5ch;
+    font-family: "Nunito", sans-serif;
+    letter-spacing: .2rem; 
+}
+.dev p{
+    color: #efbbff;
+    font-family: "Nunito", sans-serif;
+    letter-spacing: .1rem; 
+}
+
+.blc{
+  margin-top: 5%;
+  display: flex;
+}
+
+img {
+  border-radius: 200px;
+  height: 28%;
+  width: 28%;
+  margin: 5%;
+}
+.hhh{
+  margin-left: 15%;
+  margin-top: 7%;
+}
+.hhh .btn{
+  color: #00098d;
+  background-color: #fce8ff;
+  font-size: large;
+  font-weight: 600;
+  border-radius: 15%;
+  height: 1cm;
+  width: 25%;
+  margin-top: 0%;
+  margin-left: 30%;
+}
+
+.fcb{
+  background-color: #fce8ff;
+  border-radius: 23%;
+  height: 1.18cm;
+  width: 1.2cm;
+  margin-bottom: 30%;
+}
+.inst{
+  background-color: #fce8ff;
+  border-radius: 23%;
+  height: 1.2cm;
+  width: 1.2cm;
+}
+
+.hello{
+  margin-top: 15%;
+}
+
+.hello a{
+  color: #d300f3;
+}
+
